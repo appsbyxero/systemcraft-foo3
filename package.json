@@ -1,0 +1,11 @@
+{
+  "name": "code_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/main.js",
+  "scripts": {
+    "dev": "node app/main.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
